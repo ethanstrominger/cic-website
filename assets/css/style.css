@@ -18497,7 +18497,12 @@ xpush
   background-color: #343a40;
 }
 
-/*User CSS*/
+
+/*User CSS*
+*************************************************
+THis is where significant customizations are done
+*************************************************
+*/
 
 a .category {
   color: var(--pink)
@@ -18539,14 +18544,6 @@ a .category {
   .tile-btn {
     width:100%;
     font-size: 0.8rem;
-  }
-}
-
-@media(min-width:922px) {
-  .cic-logo { 
-    overflow: hidden;
-    margin: -15px 0 0 -30px;
-  
   }
 }
 
